@@ -22,7 +22,8 @@ Este é o meu **segundo projeto** de estudo com **HTML e CSS**, desenvolvido com
 
 ## 📸 Print do Projeto
 
-
+<img width="1440" height="1011" alt="O6MhOVYxlW" src="https://github.com/user-attachments/assets/0ed73188-9b12-4425-88eb-c4c8a4554799" />
+<img width="1440" height="1162" alt="VvbEgjODz0" src="https://github.com/user-attachments/assets/bb91a4bd-c0d1-4ae4-b05d-0a95802e9d00" />
 <img width="1440" height="1292" alt="6uIyzagLBD" src="https://github.com/user-attachments/assets/d5ed01b0-16ce-4d5e-abe2-9e1993c1a8d5" />
 <img width="1440" height="1292" alt="ABngd0PcxP" src="https://github.com/user-attachments/assets/2b11cd00-44b8-48b7-b60d-5f412fbe7cd3" />
 <img width="1440" height="3546" alt="CyWhEANKok" src="https://github.com/user-attachments/assets/ab9e96ba-e3b3-4938-986a-2f0d656e8299" />
@@ -31,8 +32,7 @@ Este é o meu **segundo projeto** de estudo com **HTML e CSS**, desenvolvido com
 <img width="1440" height="12654" alt="4fhiaoKL2c" src="https://github.com/user-attachments/assets/f9e2fe94-6601-45b6-9165-3059e1545f9f" />
 <img width="1440" height="860" alt="G1I7rmKiHa" src="https://github.com/user-attachments/assets/a06142ed-763d-49ed-bc41-ab1e9bff0bdb" />
 <img width="1440" height="860" alt="6Roq7dnGGB" src="https://github.com/user-attachments/assets/7097d10b-7f38-4ffb-87fe-69c9a625f9d9" />
-<img width="1440" height="1011" alt="O6MhOVYxlW" src="https://github.com/user-attachments/assets/0ed73188-9b12-4425-88eb-c4c8a4554799" />
-<img width="1440" height="1162" alt="VvbEgjODz0" src="https://github.com/user-attachments/assets/bb91a4bd-c0d1-4ae4-b05d-0a95802e9d00" />
+
 
 
 > 💡 *A imagem acima representa a aparência do site em desktop.*
